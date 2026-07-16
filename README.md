@@ -26,8 +26,7 @@ This project uses Machine Learning to predict the optimal selling price of retai
 
 ```
 Retail-Price-Optimization/
-│── data/
-│── models/
+│── Documnet/
 │── app.py
 │── requirements.txt
 │── README.md
